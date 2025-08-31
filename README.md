@@ -1,7 +1,7 @@
 # Business Insights 360 Project  
 
 ## Table of Contents
-1. [Overview](Overview)  
+1. [Overview](#Overview)  
 2. [Project Description](#project-description)  
 3. [Methodology](#methodology)  
 4. [Files and Resources](#files-and-resources)  
