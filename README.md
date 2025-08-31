@@ -1,7 +1,7 @@
 # Business Insights 360 Project  
 
 ## Table of Contents
-1. [Overview](#Overview)  
+1. [Overview](#overview)  
 2. [Project Description](#project-description)  
 3. [Methodology](#methodology)  
 4. [Files and Resources](#files-and-resources)  
@@ -11,7 +11,7 @@
 ---
 
 ## Overview  
-The *Business Insights 360 Project* is focused on providing a comprehensive analysis of business performance and identifying key areas for growth.  
+The Business Insights 360 Project is focused on providing a comprehensive analysis of business performance and identifying key areas for growth.  
 This project uses data-driven techniques to uncover insights across various business metrics, enabling better decision-making for stakeholders.  
 
 ---
@@ -40,8 +40,7 @@ The following steps were followed in this project:
 ---
 
 ## Files and Resources  
-- *Power BI Dashboard:* [Interactive Dashboard](your-link-here)  
-- *Video Presentation:* [Watch the video presentation](your-link-here)  
+- *Power BI Dashboard:* [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDk3MzI1MjUtNGUxMC00NjJlLWIyODMtNTViZmIwNGM3OWZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 
 ---
 
@@ -53,5 +52,5 @@ By leveraging data from different areas, the Business Insights 360 project offer
 
 ## Contact Information  
 For any questions or further discussion about this project, feel free to reach out:  
-- [Email](mailto:yourmail@example.com)  
-- [LinkedIn](your-link-here)
+- [Email](pavankumarkondapavuluri38@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/pavankumar-kondapavuluri-2b4350258/)
